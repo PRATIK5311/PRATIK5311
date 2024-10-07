@@ -5,6 +5,9 @@
 - 📫 How to reach me pratiktripathi198@gmail.com
 - ⚡ Fun fact:  I use console.log to make sure my life doesn't have any undefined moments!
 
+Connect with me:
+https://www.linkedin.com/in/pratik-tripathi-13a219238/
+
 <!---
 PRATIK5311/PRATIK5311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
