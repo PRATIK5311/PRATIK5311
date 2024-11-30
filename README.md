@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://pratik-portfolio-ecru.vercel.app/](https://pratik-portfolio-ecru.vercel.app/)
-
 - 💬 Ask me about **JavaScript, Responsive web design, and etc**
 
 - 📫 How to reach me **pratiktripathi198@gmail.com**
@@ -28,10 +26,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=p5311ratik&show_icons=true&locale=en&layout=compact" alt="p5311ratik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=p5311ratik&" alt="p5311ratik" /></p>
-
-
-
-<!---
-PRATIK5311/PRATIK5311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
