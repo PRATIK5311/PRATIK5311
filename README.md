@@ -10,7 +10,7 @@
 - 📫 How to reach me **pratiktripathi198@gmail.com**
 
 - ⚡ Fun fact **I use console.log to make sure my life doesn't have any undefined moments!**   
-
+    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@pratiktripathi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pratiktripathi_" height="30" width="40" /></a>
