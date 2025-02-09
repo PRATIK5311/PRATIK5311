@@ -30,7 +30,7 @@ I'm an enthusiastic **Full-Stack Developer** with a strong passion for building 
   - 🌐 HTML 
   - 🎨 CSS 
   - 🖥️ JavaScript 
-- **Frameworks and Libraries**:    
+- **Frameworks and Libraries**:
   - ⚛️ React 
   - 🌬️ Tailwind 
   - 🟩 Node 
