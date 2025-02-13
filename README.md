@@ -26,7 +26,7 @@ I'm an enthusiastic **Full-Stack Developer** with a strong passion for building 
 ## 🚀 Skills
 
 - **Programming Languages**: 
-  - ☕ JAVA 
+  - ☕ JAVA
   - 🌐 HTML 
   - 🎨 CSS 
   - 🖥️ JavaScript 
