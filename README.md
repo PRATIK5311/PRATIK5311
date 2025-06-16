@@ -13,7 +13,7 @@
   </a>
   <a href="mailto:pratiktripathi198@gmail.com" style="text-decoration: none; color: white; font-weight: bold; font-size: 1.2em;"> 
     ✉️ Contact
-  </a> 
+  </a>  
 </p>
 
  
