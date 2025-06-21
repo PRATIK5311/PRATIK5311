@@ -57,4 +57,4 @@ I'm an enthusiastic **Full-Stack Developer** with a strong passion for building 
 ## 🤝 Let's Connect
 
 - 📧 Email: [pratiktripathi198@gmail.com](mailto:pratiktripathi198@gmail.com)
-- 💼 LinkedIn: [Pratik Tripathi](https://www.linkedin.com/in/pratik-tripathi-13a219238/)
+- 💼 LinkedIn: [Pratik Tripathi](https://www.linkedin.com/in/pratik-tripathi-13a219238/) 
