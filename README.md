@@ -37,7 +37,7 @@ I'm an enthusiastic **Full-Stack Developer** with a strong passion for building 
   - 🟩 Node 
   - 🚀 ExpressJS 
 - **Databases**: 
-  - 🍃 MongoDB 
+  - 🍃 MongoDB
   - 🐬 MySQL 
 - **Tools**: 
   - 🐙 Git 
