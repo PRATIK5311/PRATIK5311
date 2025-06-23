@@ -42,7 +42,7 @@ I'm an enthusiastic **Full-Stack Developer** with a strong passion for building 
 - **Tools**: 
   - 🐙 Git 
   - 🐱 GitHub 
-  - 💻 VS Code  
+  - 💻 VS Code   
   - 🌐 Render 
   - 🎨 Canva  
   - 📸 Lightroom 
