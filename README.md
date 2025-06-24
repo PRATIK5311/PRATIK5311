@@ -40,7 +40,7 @@ I'm an enthusiastic **Full-Stack Developer** with a strong passion for building 
   - 🍃 MongoDB
   - 🐬 MySQL 
 - **Tools**: 
-  - 🐙 Git 
+  - 🐙 Git  
   - 🐱 GitHub 
   - 💻 VS Code   
   - 🌐 Render 
