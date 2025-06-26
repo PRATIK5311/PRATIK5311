@@ -22,7 +22,7 @@
 I'm an enthusiastic **Full-Stack Developer** with a strong passion for building responsive and user-friendly web applications. Currently pursuing my degree at **Pranveer Singh Institute of Technology**, I'm on a mission to leverage technology to solve real-world problems.
 
  
-  
+
 ## 🚀 Skills
   
 - **Programming Languages**: 
