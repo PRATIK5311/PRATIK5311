@@ -41,7 +41,7 @@ I'm an enthusiastic **Full-Stack Developer** with a strong passion for building 
   - 🐬 MySQL 
 - **Tools**: 
   - 🐙 Git  
-  - 🐱 GitHub 
+  - 🐱 GitHub  
   - 💻 VS Code   
   - 🌐 Render 
   - 🎨 Canva  
