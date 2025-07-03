@@ -52,7 +52,7 @@ I'm an enthusiastic **Full-Stack Developer** with a strong passion for building 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PRATIK5311&theme=radical" alt="GitHub Streak" />
-</p>
+</p> 
 
 ## 🤝 Let's Connect
 
