@@ -10,7 +10,7 @@
   </a>
   <a href="https://leetcode.com/u/PRATIK5311/" style="text-decoration: none; color: white; font-weight: bold; margin-right: 20px; font-size: 1.2em;">   
     🔍 LeetCode 
-  </a>
+  </a> 
   <a href="mailto:pratiktripathi198@gmail.com" style="text-decoration: none; color: white; font-weight: bold; font-size: 1.2em;">     
     ✉️ Contact  
   </a>  
