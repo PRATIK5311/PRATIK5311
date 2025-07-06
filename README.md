@@ -33,7 +33,7 @@ I'm an enthusiastic **Full-Stack Developer** with a strong passion for building 
   - 🖥️ JavaScript 
 - **Frameworks and Libraries**:
   - ⚛️ React 
-  - 🌬️ Tailwind 
+  - 🌬️ Tailwind  
   - 🟩 Node
   - 🚀 ExpressJS  
 - **Databases**: 
