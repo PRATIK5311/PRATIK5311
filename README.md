@@ -1,4 +1,4 @@
- <img src="./Banner1.png" />      
+ <img src="./Banner1.png" />       
 <h1 align="center">👋 Hi, I'm Pratik Tripathi</h1>             
           
 <p align="center">     
