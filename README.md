@@ -1,7 +1,7 @@
  <img src="./Banner1.png" />       
 <h1 align="center">👋 Hi, I'm Pratik Tripathi</h1>             
             
-<p align="center">       
+<p align="center">     
   <a href="https://portfolio-mauve-iota-18.vercel.app/" style="text-decoration: none; color: white; font-weight: bold; margin-right: 20px; font-size: 1.2em;">    
     🌐 Portfolio    
   </a>     
