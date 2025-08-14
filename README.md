@@ -3,7 +3,7 @@
         
 <p align="center">     
   <a href="https://portfolio-mauve-iota-18.vercel.app/" style="text-decoration: none; color: white; font-weight: bold; margin-right: 20px; font-size: 1.2em;">   
-    🌐 Portfolio     
+    🌐 Portfolio      
   </a>       
   <a href="https://www.linkedin.com/in/pratik-tripathi-13a219238/" style="text-decoration: none; color: white; font-weight: bold; margin-right: 20px; font-size: 1.2em;">  
     💼 LinkedIn    
